@@ -7,9 +7,7 @@ Me gusta los trabajos que he venido realizando y me apasiona conocer mas sobre l
 ---
 
 ## 🛠️ Habilidades
-- **Lenguajes:** Python, JavaScript  
-- **Frameworks y Librerías:** React, Node.js  
-- **Bases de Datos:** MySQL, MongoDB  
+- **Lenguajes:** Python, JavaScript   
 - **Herramientas:** Git, GitHub, VS Code  
 
 ---
